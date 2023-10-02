@@ -1,0 +1,13 @@
+[package]
+name = "baykit"
+version = "0.0.0"
+edition = "2021"
+license = "MIT"
+authors = ["Michisuke-P <michisukep@gmail.com>"]
+description = ""
+documentation = "http://baykit.yokohama"
+homepage = "http://baykit.yokohama"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
